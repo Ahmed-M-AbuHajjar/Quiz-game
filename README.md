@@ -1,5 +1,5 @@
 # Quiz-game
 
-# get started
+###### get started
 
 required to use a live server
